@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://dewa138online.swiftfest.io/sitemap.xml
+Sitemap : http://dewaa138.php-map.org/sitemap.xml
